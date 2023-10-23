@@ -1,0 +1,17 @@
+<svg width="8" height="8" viewBox="0 0 8 8" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="8" height="8" fill="#E5E5E5"/>
+<g id="Desktop" clip-path="url(#clip0_0_1)">
+<rect width="1280" height="2906" transform="translate(-140 -902)" fill="white"/>
+<g id="Topics">
+<rect id="Rectangle 12" x="-140" y="-182" width="1280" height="567" fill="black"/>
+<g id="Group 1">
+<circle id="Ellipse 1" cx="4" cy="4" r="4" fill="#E63946"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_0_1">
+<rect width="1280" height="2906" fill="white" transform="translate(-140 -902)"/>
+</clipPath>
+</defs>
+</svg>
